@@ -18,3 +18,11 @@ SOURCES += main.cpp\
 HEADERS  += mainwindow.h
 
 FORMS    += mainwindow.ui
+
+#preprocessor options
+
+DISTFILES +=
+
+RESOURCES += \
+    gui_resources.qrc
+
